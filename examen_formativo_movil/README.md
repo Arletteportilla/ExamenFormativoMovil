@@ -1,16 +1,56 @@
-# examen_formativo_movil
+# Mi Aplicación Gestora de Tareas
 
-A new Flutter project.
+Mi Aplicación Gestora de Tareas es una sencilla aplicación móvil construida con Flutter y Provider que permite a los usuarios administrar sus tareas. Los usuarios pueden agregar, editar, eliminar y marcar las tareas como completadas.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Crear tareas con un título y una descripción.
+- Editar tareas existentes.
+- Eliminar tareas.
+- Marcar tareas como completadas.
 
-A few resources to get you started if this is your first Flutter project:
+## Capturas de Pantalla
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Incluye algunas capturas de pantalla o gifs de tu aplicación aquí para dar a los usuarios una visión visual general.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Empezar
+
+Sigue estos pasos para poner en marcha la aplicación en tu máquina local.
+
+### Prerrequisitos
+
+- Flutter instalado en tu ordenador. Si no lo tienes, puedes [instalar Flutter](https://flutter.dev/docs/get-started/install).
+
+### Instalación
+
+1. Clona el repositorio:
+  git clone https://github.com/Arletteportilla/ExamenFormativoMovil.git
+2. Navega hasta la carpeta del proyecto:
+  cd examen_formativo_movil
+3. Instala las dependencias:
+  flutter pub get
+4. Ejecuta la aplicación:
+  flutter run
+
+## Uso
+
+- Inicia la aplicación en tu dispositivo o emulador.
+- Agrega tareas tocando el botón "+".
+- Edita tareas tocando en una tarea.
+- Marca tareas como completadas marcando la casilla.
+- Elimina tareas tocando el ícono de la papelera.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes ideas de mejoras, por favor abre un issue o envía un pull request.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE.md para más detalles.
+
+## Reconocimientos
+
+Gracias a las comunidades de Flutter y Provider por proporcionar excelentes herramientas y bibliotecas.
+Un agradecimiento especial a cualquier persona cuyo código se haya utilizado o que haya inspirado este proyecto.
+
+
